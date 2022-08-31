@@ -1,3 +1,4 @@
+#Patricio Carrasco
 import preguntas as p
 import random
 
