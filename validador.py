@@ -1,3 +1,4 @@
+#Patricio Carrasco
 def validate(opciones, eleccion):
     # Definir validación de eleccion
     while eleccion not in opciones:
